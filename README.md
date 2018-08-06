@@ -1,5 +1,5 @@
 # esx-vote
-ex vote
+vote for the president
 INSTALL
 copy the folder in your resource
 import the sql in your bd
